@@ -94,6 +94,45 @@ developing my skills across different areas of Mechatronics.
 
 <h2>🚀 Featured Projects</h2>
 
+<h3>
+  🧠
+  <a href="https://github.com/kamalMohamed2211/SmartBiometric-Attendance-System">
+    Smart Biometric Attendance System
+  </a>
+</h3>
+
+<p>
+An AI-powered biometric attendance system designed to provide
+secure, fast, and reliable face-recognition-based attendance
+using standard CPU hardware.
+</p>
+
+<ul>
+  <li>👤 Face Recognition using InsightFace & ArcFace</li>
+  <li>🎯 Real-time face quality validation</li>
+  <li>🔐 Multi-sample enrollment & verification</li>
+  <li>📐 Cosine Similarity matching</li>
+  <li>🛡️ Intruder detection & attempt logging</li>
+  <li>🗄️ Automated timestamped database backups</li>
+  <li>📊 CSV attendance export</li>
+  <li>🖥️ Tkinter-based admin dashboard</li>
+  <li>🔊 Text-to-Speech feedback using pyttsx3</li>
+</ul>
+
+<p>
+<b>Technologies:</b>
+Python • InsightFace • ArcFace • Computer Vision • Tkinter •
+pyttsx3 • CSV • Pickle
+</p>
+
+<p>
+<a href="https://github.com/kamalMohamed2211/SmartBiometric-Attendance-System">
+  🔗 View Project on GitHub
+</a>
+</p>
+
+<hr>
+
 <h3>🚦 STM32 Traffic Light Controller</h3>
 
 <p>
