@@ -4,7 +4,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=800&lines=Mechatronics+Engineering+Student;Embedded+Systems+%7C+Robotics+%7C+Automation;Control+Systems+%7C+CAD+%7C+CNC;Building+Ideas+into+Real-World+Systems" />
 </p>
 
+<h2>👨‍💻 About Me</h2>
 
+<p>
+I'm a <b>Mechatronics Engineering Student</b> interested in designing and building
+integrated systems that combine <b>mechanical design, electronics, embedded software,
+control, and automation</b>.
+</p>
+
+<p>
+My experience and projects cover <b>Embedded Systems, Robotics, ROS 2, PLC,
+CNC Manufacturing, CAD/Mechanical Design, and Machine Learning</b>.
+</p>
+
+<p>
+I enjoy turning engineering concepts into practical projects and continuously
+developing my skills across different areas of Mechatronics.
+</p>
 
 
 <h2>🛠️ Tech Stack & Tools</h2>
