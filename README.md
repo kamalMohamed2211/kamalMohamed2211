@@ -7,61 +7,64 @@
 
 
 
+<h2>🛠️ Tech Stack & Tools</h2>
 
-<h2>👨‍💻 About Me</h2>
-
-<p>
-I'm a <b>Mechatronics Engineering Student</b> interested in designing and building
-integrated systems that combine <b>mechanical design, electronics, embedded software,
-control, and automation</b>.
-</p>
+<h3>💻 Programming & Development</h3>
 
 <p>
-My experience and projects cover <b>Embedded Systems, Robotics, ROS 2, PLC,
-CNC Manufacturing, CAD/Mechanical Design, and Machine Learning</b>.
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,eclipse,visualstudio" />
 </p>
+
+<h3>🔌 Embedded Systems</h3>
 
 <p>
-I enjoy turning engineering concepts into practical projects and continuously
-developing my skills across different areas of Mechatronics.
+  <img src="https://skillicons.dev/icons?i=arduino,stm32" />
 </p>
 
-
-<h2>🛠️ Tech Stack</h2>
-
-<h3>💻 Programming & Embedded Systems</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,stm32" />
-</p>
-
-<h3>🤖 Robotics & Software</h3>
+<h3>🤖 Robotics & Operating Systems</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=ros,linux,ubuntu" />
 </p>
 
-<h3>🏭 Automation & Control</h3>
+<h3>🏭 Industrial Automation & Control</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 <p>
-  <b>PLC • Classic Control • Industrial Automation</b>
+  <b>TIA Portal • Factory I/O • PLC • Classic Control</b>
 </p>
 
-<h3>🛠️ Mechanical Design & Manufacturing</h3>
+<h3>⚙️ CAD & Mechanical Design</h3>
 
 <p>
-  <b>SolidWorks • CAD • Sheet Metal • CNC • G-Code • M-Code</b>
+  <img src="https://skillicons.dev/icons?i=solidworks" />
 </p>
-
-<h3>🧠 Other Technologies</h3>
 
 <p>
-  <b>Machine Learning • Git • GitHub</b>
+  <b>SolidWorks • Sheet Metal • Mechanical Design • CNC • G-Code • M-Code</b>
 </p>
+
+<h3>🧪 Simulation & Engineering Software</h3>
+
+<p>
+  <b>MATLAB • Simulink • Proteus 8</b>
+</p>
+
+<h3>🧠 Data & Machine Learning</h3>
+
+<p>
+  <b>Machine Learning • Python • Data Analysis</b>
+</p>
+
+<h3>📊 Productivity</h3>
+
+<p>
+  <b>Microsoft Office • Git • GitHub</b>
+</p>
+
 
 
 <h2>🚀 Featured Projects</h2>
