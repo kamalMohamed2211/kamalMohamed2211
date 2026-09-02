@@ -28,7 +28,11 @@ developing my skills across different areas of Mechatronics.
 <h3>💻 Programming & Development</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,eclipse,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,python,eclipse,visualstudio" />
+</p>
+
+<p>
+  <b>C • C++ • Python • Arduino • Eclipse • Visual Studio • Code::Blocks</b>
 </p>
 
 <h3>🔌 Embedded Systems</h3>
@@ -37,17 +41,21 @@ developing my skills across different areas of Mechatronics.
   <img src="https://skillicons.dev/icons?i=arduino,stm32" />
 </p>
 
+<p>
+  <b>STM32 • Arduino • Microcontrollers • Embedded C</b>
+</p>
+
 <h3>🤖 Robotics & Operating Systems</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=ros,linux,ubuntu" />
 </p>
 
-<h3>🏭 Industrial Automation & Control</h3>
-
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
+  <b>ROS 2 • Linux • Ubuntu</b>
 </p>
+
+<h3>🏭 Industrial Automation & Control</h3>
 
 <p>
   <b>TIA Portal • Factory I/O • PLC • Classic Control</b>
@@ -56,31 +64,32 @@ developing my skills across different areas of Mechatronics.
 <h3>⚙️ CAD & Mechanical Design</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=solidworks" />
+  <b>SolidWorks • CAD • Sheet Metal Design • Mechanical Design</b>
 </p>
+
+<h3>⚙️ CNC & Manufacturing</h3>
 
 <p>
-  <b>SolidWorks • Sheet Metal • Mechanical Design • CNC • G-Code • M-Code</b>
+  <b>CNC Milling • CNC Turning • G-Code • M-Code • CAM</b>
 </p>
 
-<h3>🧪 Simulation & Engineering Software</h3>
+<h3>🧪 Engineering & Simulation</h3>
 
 <p>
   <b>MATLAB • Simulink • Proteus 8</b>
 </p>
 
-<h3>🧠 Data & Machine Learning</h3>
+<h3>🧠 Machine Learning</h3>
 
 <p>
   <b>Machine Learning • Python • Data Analysis</b>
 </p>
 
-<h3>📊 Productivity</h3>
+<h3>📊 Tools & Productivity</h3>
 
 <p>
-  <b>Microsoft Office • Git • GitHub</b>
+  <b>Git • GitHub • Microsoft Office</b>
 </p>
-
 
 
 <h2>🚀 Featured Projects</h2>
